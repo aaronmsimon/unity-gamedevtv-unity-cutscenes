@@ -29,7 +29,7 @@ by [GameDev.tv](https://www.gamedev.tv)
 
 ### Introduction & Setup
 - 1.1 Welcome to the Course (1:23)
-- 1.2 URP Cinematic Studio Setup (11:17)
+- [1.2 URP Cinematic Studio Setup](https://github.com/aaronmsimon/unity-gamedevtv-unity-cutscenes/commit/d8b1a1e65ee370d4245aeea32ec224a14f16b5d8) (11:17)
 - 1.3 Intro To The Animation Window (13:32)
 - 1.4 Intro To Mixamo Animations (13:31)
 - 1.5 Intro To Post Processing And Lighting (15:42)
